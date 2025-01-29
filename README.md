@@ -16,7 +16,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/kaushikjadhav01/Online-Food-Ordering-Web-App?style=social)
 
 # Online-Food-Ordering-Web-App
-Online Food Ordering System Website using PHP, SQL, HTML, JavaScript & CSS. Live Demo at: http://food.kajadhav.me
+Online Food Ordering System Website using PHP, SQL, HTML, JavaScript & CSS. Live Demo at: http://food.Dhrisha.me
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -86,20 +86,13 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 ## Authors
 ### Kaushik Jadhav
 <ul>
-<li>Github: https://github.com/kaushikjadhav01</li>
-<li>Medium: https://medium.com/@kaushikjadhav01</li>
-<li>LinkedIn: https://www.linkedin.com/in/kaushikjadhav01/</li>
-<li>Portfolio: http://kajadhav.me/</li>
-<li>Linked In: https://www.linkedin.com/in/kajadhav/
-<li>Dev.to: https://dev.to/kaushikjadhav01
-<li>Codesignal: https://app.codesignal.com/profile/kaushik_j_vtc
-<li>Google Scholar: https://scholar.google.com/citations?user=iRYcFi0AAAAJ
-<li>Daily.dev: https://app.daily.dev/kaushikjadhav01
-<li>Google devs: https://developers.google.com/profile/u/kaushikjadhav01
-<li>Stack Overflow: https://stackoverflow.com/users/21890981/kaushik-jadhav
+<li>Github: https://github.com/Dhrisha-2002/</li>
+<li>LinkedIn: https://www.linkedin.com/in/dhrisha-d-2002-devadhas/</li>
+<li>Portfolio: https://dhrisha-devadhas.netlify.app/</li>
+<li>Dev.to: https://dev.to/Dhrisha2002
+<li>Codesignal: https://app.codesignal.com/profile/dhrisha
 </ul>
 
 ## Links
-* [Web site](http://food.kajadhav.me/)
-* [Issue tracker](https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/issues)
-* [Source code](https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App)
+* [Issue tracker](https://github.com/Dhrisha-2002/Online-Food-Ordering-Web-App/issues)
+* [Source code](https://github.com/Dhrisha-2002/Online-Food-Ordering-Web-App)
